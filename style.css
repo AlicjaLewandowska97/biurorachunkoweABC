@@ -453,12 +453,12 @@ a.slider.second:hover {
         font-size: 15px;
     }
 
-    button.slider {
+    a.slider {
         margin-right: 40px;
         font-size: 15px;
     }
 
-    button.slider.first {
+    a.slider.first {
         margin-left: 0;
     }
 }
@@ -478,7 +478,7 @@ a.slider.second:hover {
         font-size: 12px;
     }
 
-    button.slider {
+    a.slider {
         width: 100px;
         height: 40px;
         font-size: 12;
@@ -500,7 +500,7 @@ a.slider.second:hover {
         font-size: 12px;
     }
 
-    button.slider {
+    a.slider {
         width: 100px;
         height: 40px;
         font-size: 12;
@@ -523,7 +523,7 @@ a.slider.second:hover {
         font-size: 10px;
     }
 
-    button.slider {
+    a.slider {
         width: 90px;
         height: 30px;
         font-size: 10px;
@@ -564,13 +564,13 @@ a.slider.second:hover {
         padding: 10px 0;
     }
 
-    button.slider {
+    a.slider {
         margin: 20px;
         width: 120px;
         height: 40px;
     }
 
-    button.slider.first {
+    a.slider.first {
         margin-left: 20px;
     }
 }
@@ -584,13 +584,13 @@ a.slider.second:hover {
         font-size: 18px;
     }
 
-    button.slider {
+    a.slider {
         margin: 8px;
         width: 120px;
         height: 40px;
     }
 
-    button.slider.first {
+    a.slider.first {
         margin-left: 8px;
     }
 }
